@@ -31,7 +31,7 @@ elif numero_2 >= numero_1 and numero_2 >= numero_3:
         print("Números ordenados", numero_2, numero_3, numero_1)
 
 else:
-    if a >= b:
+    if numero_1 >= numero_2:
         # Salida
         print("Números ordenados", numero_3, numero_1, numero_2)
     else:
